@@ -1,4 +1,4 @@
-* No serious known problems at this time.
+* No systemwide problems known at this time.
 
 (last updated Oct 24 2018)
 
