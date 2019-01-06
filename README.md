@@ -1,5 +1,5 @@
 
-* Emergency system maintenance Jan 6 11am-1pm PST.
+* (resolved) Emergency system maintenance Jan 6 11am-1pm PST.
 * System maintenance Jan 10 11am-2pm PST.
 
 last updated 12 pm PST Jan 4
