@@ -1,5 +1,5 @@
 
-* (resolved) System maintenance Jan 10 11am-3pm PST.
+* (resolved) System maintenance Jan 10 11am-2pm PST.
 
 last updated 2 pm PST Jan 10
 
