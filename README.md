@@ -1,5 +1,5 @@
 
-* Unplanned outage Jan 11 1pm PST-ongoing
+* Unplanned intermittent outage Jan 11 1pm PST-ongoing
 
 last updated 1:30 pm PST Jan 11
 
