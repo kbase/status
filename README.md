@@ -1,6 +1,6 @@
 
-* (resolved) System maintenance Jan 10 11am-2pm PST.
+No known problems.
 
-last updated 2 pm PST Jan 10
+last updated 11 am PST Jan 11
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
