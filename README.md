@@ -1,5 +1,5 @@
 
-* (resolved) Unplanned site-wide outage Jan 11 1pm PST-5pm
+* (resolved) Unplanned site-wide outage Jan 11 1pm-5pm PST
 
 last updated 6pm PST Jan 11
 
