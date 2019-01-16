@@ -1,5 +1,5 @@
 
-* Sitewide outage 2pm PST-ongoing
+* Intermittent sitewide outage 2pm PST-ongoing
 
 last updated 2pm PST Jan 16
 
