@@ -1,6 +1,6 @@
 
-* Unplanned outage Jan 18 4:30-5:45pm PST
+No known problems at this time.
 
-last updated 5:45pm PST Jan 18
+last updated 4pm PST Jan 24
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
