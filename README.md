@@ -1,5 +1,5 @@
-Scheduled (nondisruptive) maintenance 19 Apr 2019 11am-4pm.  See <a href="https://kbase.us/system-maintenance-19apr2019/"> https://kbase.us/system-maintenance-19apr2019/</a> for details.
+Emergency systemwide maintenance 12pm-5pm PDT.  All services including kbase.us, appdev.kbase.us, narrative.kbase.us, and running jobs will be impacted.
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
 
-last updated 17 Apr 2019 4pm PDT
+last updated 2 May 2019 12pm PDT
