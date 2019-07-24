@@ -2,4 +2,4 @@ July 24 2019, 10am-ongoing: major systemwide problems, kbase.us and all other sy
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
 
-last updated 24 July 2019 12:00 pm PDT
+last updated 24 July 2019 3:00 pm PDT
