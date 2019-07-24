@@ -1,4 +1,4 @@
-July 24 2019, 10am: major systemwide problems, not yet impacting kbase.us but impacting all other systems.  We are investigating.
+July 24 2019, 10am: major systemwide problems, kbase.us and all other systems are down.  We are investigating.
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
 
