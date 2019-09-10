@@ -4,4 +4,4 @@
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
 
-last updated 9 September 2019 8:00 am PDT
+last updated 10 September 2019 2:30 pm PDT
