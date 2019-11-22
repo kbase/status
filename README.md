@@ -1,4 +1,4 @@
-~~No known problems at this time.
+~~No known problems at this time.~~
 
 * Scheduled downtime Tuesday, November 26, 2019, which will impact kbase.us.  See <a href="https://kbase.us/maintenance-2019nov26/">https://kbase.us/maintenance-2019nov26/</a> for details.
 
