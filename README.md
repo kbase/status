@@ -4,4 +4,4 @@ No known problems at this time.
 
 Please visit <a href="https://kbase.us">kbase.us</a> for information on outages not impacting our web site.
 
-last updated 4 February 2020 3:00 pm PDT
+last updated 7 February 2020 11:00 am PDT
