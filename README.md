@@ -1,4 +1,4 @@
-KBase is currently DOWN.  We will post here when we begin to power back up.
+KBase is currently DOWN.  We are currently having difficulty powering up some network equipment, so our downtime may extend beyond 7pm CDT.
 
 Most of KBase, including narrative.kbase.us and appdev.kbase.us, will be down 5pm CDT July 18 to 7pm CDT July 20 for data center maintenance.  We will keep status.kbase.us updated during the outage.
 
