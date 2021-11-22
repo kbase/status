@@ -1,9 +1,7 @@
-KBase is currently DOWN.
+KBase is currently UP.
 
-All of KBase, including narrative.kbase.us, appdev.kbase.us, and compute jobs, will be down Nov 19-22.  See www.kbase.us for more details.
-
-We are bringing KBase back up now.
+All of KBase, including narrative.kbase.us, appdev.kbase.us, and compute jobs, was down Nov 19-22.  We believe all of KBase is back up.  If you have problems please contact us.
 
 Please visit <a href="https://www.kbase.us">www.kbase.us</a> for information on outages not impacting our web site.
 
-last updated 22 Nov 2021 11:00 am PDT
+last updated 22 Nov 2021 1:00 pm PDT
