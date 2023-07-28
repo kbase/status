@@ -1,4 +1,4 @@
-KBase is currently UP.
+KBase is currently DOWN.
 
 Our data center will be performing power maintenance on July 28-31, 2023.  We will be shutting down almost all of KBase on July 28, 2023, starting at approximately 11am CDT (9am PDT), and will bring our systems back up as soon as possible on July 31.
 
