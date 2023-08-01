@@ -1,6 +1,6 @@
 KBase is currently UP.
 
-UPDATE Aug 1, 2pm CDT: our systems should be back up and working normally.  If you see any problems please contact us using the "Support" link on www.kbase.us.
+UPDATE Aug 1, 4pm CDT: our systems should be back up and working normally.  If you see any problems please contact us using the "Support" link on www.kbase.us.
 
 UPDATE Aug 1, 12pm CDT: our data center has resolved its networking issues, and we are powering up our systems.  We hope to be finished by 7pm CDT.
 
