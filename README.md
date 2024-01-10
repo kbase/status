@@ -1,4 +1,4 @@
-KBase is currently UP.
+KBase is currently DOWN.
 
 Our data center will be performing network maintenance on January 10-11, 2024, starting at 8am CST on January 10.  All KBase services will be unavailable or degraded during parts of this time, including
 
