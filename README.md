@@ -1,4 +1,6 @@
-KBase is currently DOWN.
+KBase is currently UP.
+
+Update Jan 10 8pm CST: All KBase systems should be back up.  If you experience problems please contact us.
 
 Our data center will be performing network maintenance on January 10-11, 2024, starting at 8am CST on January 10.  All KBase services will be unavailable or degraded during parts of this time, including
 
